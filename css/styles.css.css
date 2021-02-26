@@ -1,0 +1,48 @@
+@charset "utf-8";
+head {
+    color: red;
+    background-color: #78A0E5;
+	
+
+}
+body {
+	
+}
+h1 {
+	color: #0C6023; 
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: xxx-large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: overline underline;
+}
+
+
+p {
+    text-indent: 30px;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: larger;
+    color: #0C6023;
+    display: block;
+    margin: 80px;
+    border: 20px;
+    background-color: azure;
+    padding: 10px;
+}
+p2 {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    text-decoration: line-through;
+	color: azure;
+    font-size: small;
+    display: block;
+    margin-right: 80px;
+    border: 20px;
+    background-color: #0C6023;
+    padding: 40;
+}
+
+img {
+	align-content: center;
+}
